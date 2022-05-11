@@ -9,7 +9,7 @@ I grew up in front of a computer, learning about the virtual world from a young 
 
 *   🌍  I'm based in Mexico
 *   🌱  I learned web development with FutureED and Huawei
-*   🚀  I'm currently working on [Fun Fact Web](http://https://edward5126.github.io/FunFactWeb_STEAM_Torch/HTML/)
+*   🚀  I'm currently working on [Fun Fact Web](https://edward5126.github.io/FunFactWeb_STEAM_Torch/HTML/)
 
 ### Skills
 <p align="left">
@@ -17,7 +17,7 @@ I grew up in front of a computer, learning about the virtual world from a young 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
                     
 ### Socials
