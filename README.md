@@ -1,5 +1,4 @@
-### ¡Hola, Mundo! 👋
-My name is Eduardo (E-nnova)
+Hi, my name is Eduardo
 ==================================
 
 Hobbyist web developer and designer
@@ -23,6 +22,6 @@ I grew up in front of a computer, learning about the virtual world from a young 
 ### Socials
 <p align="left">
                           
-<a href="https://www.github.com/Edward5126" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Edward5126" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://www.github.com/Edward5126" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
 ### Support Me
 <a href="https://www.buymeacoffee.com/EnnovaDesign"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
