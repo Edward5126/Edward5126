@@ -8,7 +8,10 @@ I grew up in front of a computer, learning about the virtual world from a young 
 
 *   🌍  I'm based in Mexico
 *   🌱  I learned web development with FutureED and Huawei
-*   🚀  I'm currently working on [Fun Fact Web](https://edward5126.github.io/FunFactWeb_STEAM_Torch/HTML/)
+*   🚀  I'm currently working on [WitSet]([https://edward5126.github.io/FunFactWeb_STEAM_Torch/HTML/](https://edward5126.github.io/ColeccionWitSet/)):
+    * [FunFact Web](https://edward5126.github.io/ColeccionWitSet/APPS/FunFactWeb/)
+    * [Recetari](https://edward5126.github.io/ColeccionWitSet/APPS/Recetari/)
+    * [Net Index](https://edward5126.github.io/ColeccionWitSet/APPS/NetIndex/)
 
 ### Skills
 <p align="left">
