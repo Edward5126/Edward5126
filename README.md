@@ -4,11 +4,11 @@ Hi, my name is Eduardo
 Hobbyist web developer and designer
 -----------------------------------
 
-I grew up in front of a computer, learning about the virtual world from a young age. My curiosity led me to learn some graphic design techniques and, later, to learn about web development. This, together with my love of creating, left me with a couple of skills that I now enjoy as a hobby, but that I would like to take advantage of to achieve greater things.
+Since I was a kid, I've been fascinated by the digital world. Spending time in front of a computer led me to explore graphic design, and eventually, web development. What started as curiosity turned into a passion — and now it's a hobby I truly enjoy and want to keep growing.
 
-*   🌍  I'm based in Mexico
-*   🌱  I learned web development with FutureED and Huawei
-*   🚀  I'm currently working on [WitSet](https://edward5126.github.io/ColeccionWitSet/):
+*   🌍  Based in Mexico
+*   🌱  Learned web development through FutureED and Huawei
+*   🚀  Currently working on [WitSet](https://edward5126.github.io/ColeccionWitSet/):
     * [FunFact Web](https://edward5126.github.io/ColeccionWitSet/APPS/FunFactWeb/)
     * [Recetari](https://edward5126.github.io/ColeccionWitSet/APPS/Recetari/)
     * [Net Index](https://edward5126.github.io/ColeccionWitSet/APPS/NetIndex/)
@@ -22,5 +22,6 @@ I grew up in front of a computer, learning about the virtual world from a young 
 <a href="https://adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
 
-### Support Me
+### Support my work:
+If you like what I do or want to support my journey:
 <a href="https://www.buymeacoffee.com/EnnovaDesign"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
