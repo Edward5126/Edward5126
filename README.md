@@ -22,6 +22,6 @@ Since I was a kid, I've been fascinated by the digital world. Spending time in f
 <a href="https://adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
 
-### Support my work:
+### Support my work
 If you like what I do or want to support my journey: <br><br>
 <a href="https://www.buymeacoffee.com/EnnovaDesign"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
