@@ -23,5 +23,5 @@ Since I was a kid, I've been fascinated by the digital world. Spending time in f
 </p>
 
 ### Support my work:
-If you like what I do or want to support my journey: <br>
+If you like what I do or want to support my journey: <br><br>
 <a href="https://www.buymeacoffee.com/EnnovaDesign"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
