@@ -56,7 +56,7 @@ Ayudo a todo tipo de proyectos para transformar sus ideas en identidad o sus pro
 </a>
 
 <a href="mailto:Eduardochan_cach@hotmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
 </a>
 
 </div>
